@@ -4,9 +4,9 @@ This repo contains my bachelor's and master's thesis. Both papers and the releva
 # File Description
 Bachelors_Thesis: Final submission of thesis with abstract (bachelor)
 
-Recoms_basic: Analysis of Amazon recommendation dataset to support bachelor's thesis.
+Bachelor_Thesis_Analysis: Analysis of Amazon recommendation dataset to support bachelor's thesis.
 
-Javeria_Dal_Project_Final: Final submission of thesis with abstract (masters)
+Javeria_Dal_Project_Final: Final submission of master's thesis project.
 
-Copy_of_M5_basic_EDA: Coding and Data Analysis of Walmart dataset for master's thesis.
+Masters_EDA: Coding and Data Analysis of Walmart dataset for master's thesis.
 
